@@ -12,6 +12,9 @@
     "node": "12.11.1",
     "npm": "6.14.13"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
